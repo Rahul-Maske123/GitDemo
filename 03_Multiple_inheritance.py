@@ -9,6 +9,7 @@ class Freelancer:
 
     def upgradeLevel(self):
         self.level = self.level + 1
+        print("i am rahul")
 
 class Programmer(Freelancer, Employee):
     name = "Rohit"
