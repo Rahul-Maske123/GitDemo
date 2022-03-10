@@ -14,6 +14,8 @@ class Employee(Person):
         print("I am an Employee so I am luckily breathing..")
         print("i am rahul")
 
+        print"abcvdfghjjjjj"
+
 class Programmer(Employee):
     company = "Fiverr"
     
