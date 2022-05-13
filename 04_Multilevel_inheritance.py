@@ -10,7 +10,7 @@ class Employee(Person):
         print(f"Salary is {self.salary}")
     
     def takeBreath(self):
-        print("I am an Employee so I am luckily breathing..")
+        print("I am an Employee so I am luckily breathing.....")
 
 class Programmer(Employee):
     company = "Fiverr"
@@ -19,7 +19,7 @@ class Programmer(Employee):
         print(f"No salary to programmers")
     
     def takeBreath(self):
-        print("I am a Progarmmer so I am breathing++..")
+        print("I am a Progarmmer so I am breathing++.....")
 
 p = Person()
 p.takeBreath()
