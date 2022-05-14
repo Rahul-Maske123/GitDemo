@@ -4,3 +4,5 @@
 b='''Rahul's and
 Rahul's'''
 print(b)
+Rahul's'''
+print(b)

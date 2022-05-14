@@ -36,3 +36,7 @@ e.takeBreath()
 
 pr = Programmer()
 pr.takeBreath()
+pr = Programmer()
+pr.takeBreath()
+pr = Programmer()
+pr.takeBreath()

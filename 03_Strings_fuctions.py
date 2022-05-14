@@ -7,3 +7,4 @@ story="A paragraph is a series of related sentences developing a central idea, c
 #print(story.count("a"))
 #print(story.capitalize())
 print(story.replace("paragraph", "sentance"))
+print("RAhul maske")
